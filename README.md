@@ -57,5 +57,11 @@ width="104" height="142">
 </body>
 </html>
 
-5.
+ctrl U for page source
 
+nested html elements.
+
+href attribute specifies the url of the page the link goes to
+
+the <img> tag is used to embed an image in an HTML page.
+the src attribute specifies the path to the image to be displayed.
