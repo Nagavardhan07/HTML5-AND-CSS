@@ -65,3 +65,10 @@ href attribute specifies the url of the page the link goes to
 
 the <img> tag is used to embed an image in an HTML page.
 the src attribute specifies the path to the image to be displayed.
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:red">NAGAVARDHAN</h1>
+</body>
+</html>
