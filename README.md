@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>KASU NAGAVARDHAN</title>
+<Title>KASU NAGAVARDHAN</Title>
 </head>
 <body>
 <h1>NAG</h1>
